@@ -1,0 +1,9 @@
+sale_id,product,quantity,price,customer,sale_date,region
+S001,Laptop,2,75000,Raj Kumar,2024-01-15,South
+S002,Mouse,5,500,Priya Sharma,2024-01-15,North
+S003,Keyboard,3,1200,Ankit Singh,2024-01-16,West
+S004,Monitor,1,18000,Deepa Nair,2024-01-16,South
+S005,Headphones,4,3500,Amit Patel,2024-01-17,East
+S006,Webcam,2,2000,Neha Gupta,2024-01-17,North
+S007,Laptop,1,82000,Sundar Rajan,2024-01-18,South
+S008,USB Hub,10,800,Kavya Iyer,2024-01-18,West
